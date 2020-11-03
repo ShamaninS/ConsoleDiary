@@ -1,0 +1,12 @@
+D:\Гугл.Диск\Программирование\SkillBox\Модуль 6\Theme_07\Homework_07\bin\Debug\Homework_07.exe.config
+D:\Гугл.Диск\Программирование\SkillBox\Модуль 6\Theme_07\Homework_07\bin\Debug\Homework_07.exe
+D:\Гугл.Диск\Программирование\SkillBox\Модуль 6\Theme_07\Homework_07\bin\Debug\Homework_07.pdb
+D:\Гугл.Диск\Программирование\SkillBox\Модуль 6\Theme_07\Homework_07\obj\Debug\Homework_07.csprojAssemblyReference.cache
+D:\Гугл.Диск\Программирование\SkillBox\Модуль 6\Theme_07\Homework_07\obj\Debug\Homework_07.exe
+D:\Гугл.Диск\Программирование\SkillBox\Модуль 6\Theme_07\Homework_07\obj\Debug\Homework_07.pdb
+D:\Гугл.Диск\Программирование\SkillBox\Theme_07\Homework_07\obj\Debug\Homework_07.csprojAssemblyReference.cache
+D:\Гугл.Диск\Программирование\SkillBox\Theme_07\Homework_07\obj\Debug\Homework_07.exe
+D:\Гугл.Диск\Программирование\SkillBox\Theme_07\Homework_07\obj\Debug\Homework_07.pdb
+D:\Гугл.Диск\Программирование\SkillBox\Theme_07\Homework_07\bin\Debug\Homework_07.exe.config
+D:\Гугл.Диск\Программирование\SkillBox\Theme_07\Homework_07\bin\Debug\Homework_07.exe
+D:\Гугл.Диск\Программирование\SkillBox\Theme_07\Homework_07\bin\Debug\Homework_07.pdb

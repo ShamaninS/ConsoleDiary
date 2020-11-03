@@ -1,0 +1,6 @@
+D:\Гугл.Диск\Программирование\SkillBox\HomeWork\7\HW_Th07\obj\Debug\PlannerMain.csprojAssemblyReference.cache
+D:\Гугл.Диск\Программирование\SkillBox\HomeWork\7\HW_Th07\obj\Debug\Homework_07.exe
+D:\Гугл.Диск\Программирование\SkillBox\HomeWork\7\HW_Th07\obj\Debug\Homework_07.pdb
+D:\Гугл.Диск\Программирование\SkillBox\HomeWork\7\HW_Th07\bin\Debug\Homework_07.exe.config
+D:\Гугл.Диск\Программирование\SkillBox\HomeWork\7\HW_Th07\bin\Debug\Homework_07.exe
+D:\Гугл.Диск\Программирование\SkillBox\HomeWork\7\HW_Th07\bin\Debug\Homework_07.pdb
